@@ -1,0 +1,11 @@
+numpy>=1.25
+matplotlib
+pyscf
+torch
+torch-geometric
+torch-scatter
+tqdm
+quaternion
+mgnn @ git+https://github.com/hauser-group/MolGraphNetwork.git
+scf_guess_tools @ git+https://github.com/hauser-group/scf_guess_tools.git
+scf_guess_datasets @ git+https://github.com/hauser-group/scf_guess_datasets.git
